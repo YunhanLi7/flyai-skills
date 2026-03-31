@@ -15,7 +15,7 @@
 
 **安装**：
 ```bash
-npx skills add <your-github-username>/flyai-skills@trip-planner
+npx skills add YunhanLi7/flyai-skills@trip-planner
 ```
 
 ### 2. weekend-escape（周末逃跑计划）
@@ -29,7 +29,7 @@ npx skills add <your-github-username>/flyai-skills@trip-planner
 
 **安装**：
 ```bash
-npx skills add <your-github-username>/flyai-skills@weekend-escape
+npx skills add YunhanLi7/flyai-skills@weekend-escape
 ```
 
 ### 3. city-walker（城市漫游者）
@@ -43,7 +43,7 @@ npx skills add <your-github-username>/flyai-skills@weekend-escape
 
 **安装**：
 ```bash
-npx skills add <your-github-username>/flyai-skills@city-walker
+npx skills add YunhanLi7/flyai-skills@city-walker
 ```
 
 ## 前置依赖
